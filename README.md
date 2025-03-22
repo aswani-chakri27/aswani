@@ -13,5 +13,5 @@
  ###Tools&skills used###
  **microsoft excel;**pivot tables,power query,data modeling ,advanced formulas.
  **data analysis**sales and profit reporting,revenue tracking 
- **visualization**;charts,consitional formatting,dashboards
+ **visualization**;charts,consitional formatting,dashboards.
  
